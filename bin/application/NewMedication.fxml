@@ -29,7 +29,7 @@
             <Label text="Name:" />
             <Label text="Dose:" GridPane.rowIndex="1" />
             <Label text="Time of day:" GridPane.rowIndex="2" />
-            <TextField fx:id="addNameField" minHeight="-Infinity" prefHeight="35" promptText="Advil, Tylenol, etc." GridPane.columnIndex="1" />
+            <TextField fx:id="addNameField" minHeight="-Infinity" prefHeight="35" promptText="Raj,Abhinav, etc." GridPane.columnIndex="1" />
             <TextField fx:id="addDoseField" minHeight="-Infinity" prefHeight="35" promptText="200 mg, etc." GridPane.columnIndex="1" GridPane.rowIndex="1" />
             <AnchorPane GridPane.columnIndex="1" GridPane.rowIndex="2">
                <children>

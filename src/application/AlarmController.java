@@ -26,7 +26,7 @@ public class AlarmController {
     }
     
     /**
-     * If cancel button is clicked, window closes the same as clicking "X"
+     * If cancel button is clicked, window closes the same as clicking "Taken"
      */
     @FXML
     void noButtonClick() {

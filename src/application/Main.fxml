@@ -14,7 +14,7 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.MainController">
    <children>
-      <Label alignment="CENTER" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="200.0" text="Made by John Hattas &amp; Nathan Lang" textAlignment="CENTER" AnchorPane.bottomAnchor="5" AnchorPane.leftAnchor="0.0">
+      <Label alignment="CENTER" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="200.0" text="Made by Shorya Tripathi" textAlignment="CENTER" AnchorPane.bottomAnchor="5" AnchorPane.leftAnchor="0.0">
          <font>
             <Font size="11" />
          </font>

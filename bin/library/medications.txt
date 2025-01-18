@@ -1,3 +1,5 @@
-Tylenol;1244;Wed;100;Not Taken
-Tylenol;1407;SunMonTueWedThuFriSat;200 mg;Not Taken
-Ibuprofen;1192;MonWedFri;200 mg;Not Taken
+Akshat;750;SunMonTueWedThuFriSat;100 mg;Taken
+Raj;1008;SunMonTueWedThuFriSat;250 mg;Taken
+Shorya;749;SunMonTueWedThuFriSat;150 mg;Taken
+Suraj;1238;SunMonTueWedThuFriSat;50mg;Not Taken
+Ruchi;1239;SunMonTueWedThuFriSat;125mg;Not Taken
