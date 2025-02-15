@@ -3,7 +3,7 @@
 
 **Project Title:** Medication Reminder
 
-**Creators:** John Hattas and Nathan Lang
+**Creators:** Shorya Tripathi
 
 ## Quick Links
 [To Do List](TODO.md)
@@ -37,41 +37,6 @@ Team size for the projects should be two to three at most. Follow the key dates 
 
 Java FX/Java Swing/Java Web Application or any programming language of the team’s choice.
 
-## Key Dates and Deliverables
-
-#### Market Research and Mockup Design (Nov.10th) :white_check_mark:
-
-Conduct market research of relevant products such as mobile apps or web applications that do similar things as the project. Survey the competition designs, and include the report of what is available out there and what features you can realistically implement by the end of this semester. Also, use a professional mock up generator to create sample mock-ups of your final project (see Useful Links section below).
-
-#### GUI Design with some features (Nov.20th) :white_check_mark:
-
-Write basic prototype of the application that displays the GUI. Either hard code the inputs such as medication history, reminders, etc or read them from a file and display on the GUI. Take screenshots of your GUI and include them in a report and upload your source code and the report.
-
-#### GUI Design with most features (Dec.4th)
-
-Write prototype of the application that displays the GUI with most of the functionality implemented.  Highlight the different data structures that you have used. They could be simple ArrayList, Queue, Stack, HashMap, etc from Java Collection Framework. . Take screenshots of your application and include them in a report and upload your source code and the report.
-
-#### Prototype Presentation (Dec.6th , Dec.8th)
-
-Include the screenshots of your application into a shared presentation at the following link. We will have presentations of your project during those two dates.
-
-https://docs.google.com/presentation/d/1eF_kJV_wcCfhyLKsLHeJOqGoCtslvSe_xpC0eRoOmKU/edit?usp=sharing
-
-#### Final Report (Dec.13th 11:59 PM)
-
-Your final report should include the application description, motivation, competing market research, and your prototype description. More details to be announced.
-
-## More Links:
-
-https://moqups.com/ ( mock-up designer tool)
-
-https://balsamiq.com/ (mock-up designer tool – free 30 day trial)
-
-https://docs.oracle.com/javase/8/javase-clienttechnologies.htm (JavaFX Tutorial)
-
-https://docs.oracle.com/javase/tutorial/uiswing/index.html (Java Swing Tutorial --older way of creating GUI)
-
-https://help.github.com/articles/basic-writing-and-formatting-syntax/ (how to edit this README)
 
 ## Git Tips
 - use `git clone https://gitlab.mscs.mu.edu/rthomas/stocks.git` to download repository
